@@ -1,5 +1,5 @@
 # XmlRpc
-Cook Computing Port to Netstandard / .Net Core
+Cook Computing Port to .NET Framework 4.6
 XML-RPC.NET - XML-RPC for .NET 
 v3.0.0 Release
 Copyright (C) 2001-2010 Charles Cook (chascook@gmail.com)
